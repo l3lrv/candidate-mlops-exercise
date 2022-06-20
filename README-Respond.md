@@ -1,0 +1,1 @@
+** Unfortunately, I'm not a python programmer and am not familiar with the Django framework. But I felt compelled to clone the repo anyway and at least give it a look. Even though I cannot complete the task requested, hopefully, this will demonstrate my understanding of Git. Overall I will also use this as an opportunity to familiarize myself with the Django framework **
